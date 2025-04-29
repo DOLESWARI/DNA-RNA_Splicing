@@ -27,3 +27,6 @@ Machine Learning (optional) for classification of exons/introns
 Matplotlib or Plotly for visualizations (if implemented)
 
 Streamlit for web integration
+
+## Disclaimer
+This project is for educational and research purposes only. It is not intended for clinical or diagnostic use.
