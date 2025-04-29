@@ -17,7 +17,7 @@ Visual representation of the splicing process (if implemented with a GUI or web 
 ## Motivation
 RNA splicing plays a crucial role in post-transcriptional gene regulation. Errors in splicing mechanisms are known to lead to several diseases, including cancer. This project aims to model and simulate the biological splicing process computationally, allowing researchers and students to visualize and analyze genetic data efficiently.
 
-![Splicing Diagram](images/splicing_process.png)
+![Splicing Screenshot](https://raw.githubusercontent.com/DOLESWARI/DNA-RNA_Splicing/main/Screenshot%20(154).png)
 
 ## Technologies Used
 Python for core logic and sequence manipulation
