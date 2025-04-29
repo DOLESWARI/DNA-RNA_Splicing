@@ -1,5 +1,6 @@
 # DNA-RNA_Splicing
 This project focuses on analyzing DNA sequences to predict possible splicing patterns that contribute to gene expression through RNA transcription and translation. The tool takes DNA sequences as input, identifies intron and exon regions, simulates RNA splicing, and outputs the final mRNA sequence that could be translated into proteins. The project is particularly useful for understanding gene regulation, alternative splicing, and identifying potential markers related to genetic diseases or conditions like tumors and cancer.
+![Splicing Screenshot](https://raw.githubusercontent.com/DOLESWARI/DNA-RNA_Splicing/main/Screenshot%20(154).png)
 
 ## Features
 Accepts DNA sequences from users as input.
@@ -14,10 +15,12 @@ Can highlight mutations or anomalies that may lead to diseases (e.g., cancer mar
 
 Visual representation of the splicing process (if implemented with a GUI or web interface).
 
+![Splicing Screenshot](https://raw.githubusercontent.com/DOLESWARI/DNA-RNA_Splicing/main/Screenshot%20(151).png)
+
 ## Motivation
 RNA splicing plays a crucial role in post-transcriptional gene regulation. Errors in splicing mechanisms are known to lead to several diseases, including cancer. This project aims to model and simulate the biological splicing process computationally, allowing researchers and students to visualize and analyze genetic data efficiently.
 
-![Splicing Screenshot](https://raw.githubusercontent.com/DOLESWARI/DNA-RNA_Splicing/main/Screenshot%20(154).png)
+![Splicing Screenshot](https://raw.githubusercontent.com/DOLESWARI/DNA-RNA_Splicing/main/Screenshot%20(156).png)
 
 ## Technologies Used
 Python for core logic and sequence manipulation
