@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import hashlib
 import sqlite3
-from streamlit_option_menu import option_menu
+
 
 import about_us
 import feedback
