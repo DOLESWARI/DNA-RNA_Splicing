@@ -1,5 +1,9 @@
-import streamlit as st
+import os
+os.system("pip install streamlit-option-menu")
 from streamlit_option_menu import option_menu
+
+import streamlit as st
+#from streamlit_option_menu import option_menu
 import hashlib
 import sqlite3
 
